@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ModelViewViewModel</string>
+    <string name="insert_quote">Insert Quote</string>
+    <string name="database">Database</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="retrofit_user">User Retrofit</string>
+
+    <string name="bullet_list">
+       <ul> <li>This quiz consists of 20 multiple-choice
+       questions. There is no <b>negative marking</b> for
+       any question.</li>
+         <li>On top right corner timer is shown.</li>
+         <li>You have 2 chances in total to give the exam</li>
+     <li>In case of connection loss you can re-attempt
+       the exam it will resume from where you left.</li>
+     <li>You can not <font color="#F44336"><b>refresh</b></font> page while giving exam.</li>
+     <li>Do not switch tabs while giving the exam.</li></ul>
+    </string>
+    <string name="menu_home">Home</string>
+    <string name="menu_business">Business</string>
+    <string name="menu_entertainment">Entertainment</string>
+    <string name="menu_sports">Sports</string>
+</resources>
